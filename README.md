@@ -14,4 +14,4 @@ Senior Backend Engineer em Belo Horizonte, com quase 10 anos construindo sistema
 Node.js · TypeScript · NestJS · PostgreSQL · SQL Server · MongoDB · Docker/Podman · CI/CD · MCP
 
 **Contato**
-[LinkedIn](https://www.linkedin.com/in/marco-aur%C3%A9lio-t%C3%B4rres-vieira-294524b8/)
+[LinkedIn](https://www.linkedin.com/in/marcotorresvieira/)
